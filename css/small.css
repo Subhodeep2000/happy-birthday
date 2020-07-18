@@ -11,3 +11,6 @@ aside.right,aside.left{
 	float:inherit;
 }
 
+.often .container{
+	width:800px;
+}
